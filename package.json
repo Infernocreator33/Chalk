@@ -1,0 +1,19 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "My chalk project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infernocreator33/Chalk.git"
+  },
+  "author": "Zachary Sexton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infernocreator33/Chalk/issues"
+  },
+  "homepage": "https://github.com/Infernocreator33/Chalk#readme"
+}
